@@ -49,6 +49,7 @@ nav = [
   { "xv6 源码分析" = [
     { "xv6 运行环境搭建" = "xv6_source_analysis/xv6_build_env.md" },
     { "xv6 构建系统分析" = "xv6_source_analysis/xv6_build_scripts.md" },
+    { "xv6 启动代码分析" = "xv6_source_analysis/xv6_boot_source.md" },
   ]},
 ]
 # With the "extra_css" option you can add your own CSS styling to customize
