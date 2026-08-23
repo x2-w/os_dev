@@ -46,6 +46,9 @@ Copyright &copy; 2026 The authors
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   { "Get started" = "index.md" },
+  { "OS 讲义" = [
+    { "01-操作系统概述" = "xv6_lectures/l1_os_overview.md" },
+  ]},
   { "xv6 源码分析" = [
     { "xv6 运行环境搭建" = "xv6_source_analysis/xv6_build_env.md" },
     { "xv6 构建系统分析" = "xv6_source_analysis/xv6_build_scripts.md" },
