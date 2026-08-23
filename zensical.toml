@@ -48,6 +48,7 @@ nav = [
   { "Get started" = "index.md" },
   { "OS 讲义" = [
     { "01-操作系统概述" = "xv6_lectures/l1_os_overview.md" },
+    { "02-C语言编写xv6" = "xv6_lectures/l2_programming_xv6_in_c.md" },
   ]},
   { "xv6 源码分析" = [
     { "xv6 运行环境搭建" = "xv6_source_analysis/xv6_build_env.md" },
