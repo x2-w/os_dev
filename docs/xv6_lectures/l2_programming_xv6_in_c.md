@@ -1,3 +1,7 @@
+---
+icon: lucide/book-text
+---
+
 # 用C语言编写xv6
 
 ## 为什么选择使用 C 语言？
